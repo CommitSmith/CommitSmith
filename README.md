@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**CommitSmith/CommitSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻⚡️ Electronics Engineer | Embedded Systems Enthusiast | Programmer
 
-Here are some ideas to get you started:
+I'm an **Electronics Engineer** 🛠️ sharing projects I had fun developing 🖥️. Graduate of **The University of Exeter** 🎓. Currently tinkering with **microcontrollers**, **embedded systems**, and **Assembly Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 What I Do  
+- 🛠️ **Hardware**: Designing circuits and PCBs in EAGLE, specifically interfacing I/O devices with the **ESP32** microcontroller.
+- 💻 **Software**: Writing efficient, clean, and functional code (C++, Python, Embedded C).
+
+## 🌍 Projects in Focus  
+I’m currently working on:  
+- ⚙️ **Automation**: Simplifying assembly tasks during manufacturing with hardware and software solutions.
+- 📚 **Databases**: Efficiently querying manufacturing data via command line from a large database.
+
+## 🧠 Current Learning  
+- 🏭 Further optimizing manufacturing processes.
+- 🖥️ Creating a user-friendly GUI to replace command-line operations.
+- 🖨️ Learning **graphics printing techniques** for e-paper output.
+
+## ✨ Fun Facts About Me  
+- I made a top-down pixel art JRPG game for my A-Level coursework, with animations, a story, and music.
+
+## 📫 Let’s Connect!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/salaahuddeensmith/)  
+- 🌱 Let’s collaborate on some cool projects!
