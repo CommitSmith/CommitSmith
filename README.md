@@ -16,7 +16,7 @@ I’m currently working on:
 - 📚 **Databases**: Efficiently querying manufacturing data via command line from a large database.
 
 ## 🧠 Current Learning  
-- 🏭 Further optimizing manufacturing processes.
+- 🏭 Further optimising manufacturing processes.
 - 🖥️ Creating a user-friendly GUI to replace command-line operations.
 - 🖨️ Learning **graphics printing techniques** for e-paper output.
 
