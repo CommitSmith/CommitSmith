@@ -1,28 +1,32 @@
-# Hi there 👋
+Salaahuddeen Smith 👨‍💻⚡️
+Electronics Engineer | Embedded Systems | Programmer
+I'm an Electronics Engineer and a graduate of the University of Exeter. My work focuses on developing hardware and software solutions, with a particular interest in embedded systems and manufacturing automation.
 
-## 👨‍💻⚡️ Electronics Engineer | Embedded Systems Enthusiast | Programmer
+🌟 Areas of Expertise
+Hardware Design: Proficient in EAGLE for circuit and PCB design, specialising in I/O device interfacing with ESP32 microcontrollers.
 
-I'm an Electronics Engineer, sharing projects I had fun developing 🖥️. 
-Graduate of **The University of Exeter** 🎓. 
-Currently tinkering with the ** ESP32 S3 microcontroller**, **embedded systems**, and **Manufacturing Automation**.
+Software Development: Skilled in writing efficient and robust code using C++, Python, and Embedded C.
 
-## 🌟 What I Do  
-- 🛠️ **Hardware**: Designing circuits and PCBs in EAGLE, specifically interfacing I/O devices with the **ESP32** microcontroller.
-- 💻 **Software**: Writing efficient, clean, and functional code (C++, Python, Embedded C).
+🚀 Current Initiatives
+My ongoing projects include:
 
-## 🌍 Projects in Focus  
-I’m currently working on:  
-- ⚙️ **Automation**: Simplifying assembly tasks during manufacturing with hardware and software solutions.
-- 📚 **Databases**: Efficiently querying manufacturing data via command line from a large database.
+Manufacturing Automation: Implementing hardware and software solutions to optimise assembly processes.
 
-## 🧠 Current Learning  
-- 🏭 Further optimising manufacturing processes.
-- 🖥️ Creating a user-friendly GUI to replace command-line operations.
-- 🖨️ Learning **graphics printing techniques** for e-paper output.
+Data Management: Developing efficient command-line tools for querying extensive manufacturing databases.
 
-## ✨ Fun Facts About Me  
-- I made a top-down pixel art JRPG game for my A-Level coursework, with animations, a story, and music.
+🧠 Continuous Development
+I am actively expanding my capabilities in:
 
-## 📫 Let’s Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/salaahuddeensmith/)  
-- 🌱 Let’s collaborate on some cool projects!
+Process Optimisation: Enhancing manufacturing workflows for improved efficiency.
+
+GUI Development: Creating user-friendly graphical interfaces to enhance system accessibility.
+
+Graphics Printing: Exploring graphics printing techniques for e-paper displays.
+
+✨ Background Insight
+As part of my A-Levels, I developed a top-down pixel art JRPG, which included custom animations, a detailed storyline, and original music.
+
+📫 Connect
+I'm interested in collaborating on new projects and connecting with professionals in the field.
+
+💼 LinkedIn
