@@ -2,9 +2,9 @@
 
 ## 👨‍💻⚡️ Electronics Engineer | Embedded Systems Enthusiast | Programmer
 
-I'm an **Electronics Engineer** 🛠️ sharing projects I had fun developing 🖥️. 
+I'm an Electronics Engineer, sharing projects I had fun developing 🖥️. 
 Graduate of **The University of Exeter** 🎓. 
-Currently tinkering with **microcontrollers**, **embedded systems**, and **Manufacturing Automation**.
+Currently tinkering with the ** ESP32 S3 microcontroller**, **embedded systems**, and **Manufacturing Automation**.
 
 ## 🌟 What I Do  
 - 🛠️ **Hardware**: Designing circuits and PCBs in EAGLE, specifically interfacing I/O devices with the **ESP32** microcontroller.
